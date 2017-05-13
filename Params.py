@@ -1,2 +1,0 @@
-class Params(object):
-    pass
